@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm KarthikaRaj</h1>
-<a href="https://www.google.com">
   <img src="https://images.app.goo.gl/YedyV7JRvYmBBBLr5" alt=" profile image">
-</a>
 <h3 align="center">I am a self-taught Frontend developer and python developer from India.I enjoy taking up complex problems and turning them into simple and beautiful interface designs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkarthi&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkarthi" /> </p>

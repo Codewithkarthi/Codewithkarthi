@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm KarthikaRaj</h1>
 <h3 align="center">I am a self-taught Frontend developer and python developer from India.I enjoy taking up complex problems and turning them into simple and beautiful interface designs.</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/g1f3.gif>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithkarthi&label=Profile%20views&color=0e75b6&style=flat" alt="codewithkarthi" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithkarthi" alt="codewithkarthi" /></a> </p>
 

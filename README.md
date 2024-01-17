@@ -29,6 +29,8 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)][quora]
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+![greatLearning](https://img.shields.io/badge/Great_Learning-darkblue.svg?style=for-the-badge&logo=Great_Learning&logoColor=darkblue)
+
 
 [medium]: https://medium.com/
 [github]: https://github.com/
